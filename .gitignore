@@ -1,0 +1,19 @@
+# OS Specific Files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor Settings
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# Environment Files
+Backend/.env
